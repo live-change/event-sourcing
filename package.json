@@ -1,0 +1,28 @@
+{
+  "name": "@live-change/event-sourcing",
+  "version": "0.1.0",
+  "description": "Event Sourcing implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test tape tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/live-change/event-sourcing.git"
+  },
+  "author": {
+    "email": "m8@em8.pl",
+    "name": "Michał Łaszczewski",
+    "url": "https://www.viamage.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/live-change/event-sourcing/issues"
+  },
+  "homepage": "https://github.com/live-change/event-sourcing",
+  "devDependencies": {
+    "@live-change/db-server": "^0.2.0",
+    "tape": "^4.11.0"
+  },
+  "dependencies": {}
+}
