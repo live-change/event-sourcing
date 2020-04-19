@@ -1,6 +1,6 @@
 {
   "name": "@live-change/event-sourcing",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Event Sourcing implementation",
   "main": "index.js",
   "scripts": {
